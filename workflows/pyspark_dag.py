@@ -11,7 +11,7 @@ from airflow.providers.google.cloud.operators.dataproc import (
 
 # define the variables
 PROJECT_ID = "indigo-tracker-419714"
-REGION = "us-east1"
+REGION = "us-central1"
 CLUSTER_NAME = "my-demo-cluster2"
 COMPOSER_BUCKET = "us-central1-demo-instance-a6526205-bucket" ## change this 
 
